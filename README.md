@@ -52,7 +52,7 @@ reviews are in progress and will be published here.
 ## Practice & Course Audits
 
 Reviews of educational codebases from the **[Cyfrin Updraft](https://updraft.cyfrin.io/)** security
-curriculum — the foundation of my training. **40 findings across 5 protocols.**
+curriculum, the foundation of my training. **40 findings across 5 protocols.**
 
 | Date       | Protocol           | Type                     | Findings                         | Report |
 | ---------- | ------------------ | ------------------------ | -------------------------------- | :----: |
